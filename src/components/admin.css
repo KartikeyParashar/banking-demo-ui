@@ -1,9 +1,0 @@
-/* components/admin.css */
-.animated-edit {
-  transition: all 0.3s ease;
-  margin-left: 10%;
-}
-.animated-edit:hover {
-  margin-left: 50%;
-  transform: translateX(-50%);
-}

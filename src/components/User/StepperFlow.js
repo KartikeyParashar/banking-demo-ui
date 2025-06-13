@@ -1,5 +1,5 @@
-import React, { useState } from "react";
-import { Steps, Button, message } from "antd";
+import { useState } from "react";
+import { Steps, message } from "antd";
 import PersonalDetails from "./PersonalDetails";
 import BankDetails from "./BankDetails";
 import Preview from "./Preview";

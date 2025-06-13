@@ -1,4 +1,3 @@
-import React from "react";
 import { Form, Input, Button } from "antd";
 
 const PersonalDetails = ({ formData, setFormData, onNext }) => {

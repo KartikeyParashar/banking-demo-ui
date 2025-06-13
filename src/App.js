@@ -1,12 +1,11 @@
-// App.js
 import React, { useState } from "react";
 import { Layout, Menu, ConfigProvider, theme } from "antd";
 import {
   FormOutlined,
   DashboardOutlined,
 } from "@ant-design/icons";
-import StepperFlow from "./components/StepperFlow";
-import AdminPanel from "./components/AdminPanel";
+import StepperFlow from "./components/User/StepperFlow";
+import AdminPanel from "./components/Admin/AdminPanel";
 import { motion } from "framer-motion";
 
 const { Header, Content, Footer, Sider } = Layout;
